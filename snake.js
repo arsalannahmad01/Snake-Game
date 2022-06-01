@@ -228,8 +228,6 @@ function CheckIfSnakeMetTarget() {
     }
 }
 
-// random comment
-
 function ShowScore() {
     score += 4;
     ctx.fillStyle = 'white';
